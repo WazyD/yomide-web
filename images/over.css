@@ -1,0 +1,36 @@
+.over {
+  background-color: white;
+  box-shadow: 2px solid black;
+
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  margin-left: 450px;
+  margin-top: -40px;
+  /* opacity: 0.9; */
+  /* z-index: 1; */
+  position: absolute;
+  box-shadow: rgb(98, 95, 95) 1px 1px 3px 2px;
+  padding: 10px;
+}
+.over h2 {
+  font-size: 22px;
+  margin-left: 20px;
+}
+.over h1 {
+  color: rgb(176, 13, 13);
+  float: right;
+  margin-top: -10px;
+
+  font-weight: 100;
+  /* padding-top: 30px; */
+  transform: rotate(90deg);
+  font-size: 30px;
+}
+.over p {
+  font-size: 16px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.over a {
+  color: rgb(8, 130, 130);
+}
